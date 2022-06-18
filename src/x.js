@@ -1,2 +1,0 @@
-export default 'halo,world!~'
-
